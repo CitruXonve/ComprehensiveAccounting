@@ -1,0 +1,23 @@
+{
+  "name": "comprehensiveaccounting",
+  "version": "1.0.0",
+  "description": "A comprehensive solution of double-entry accounting implementations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CitruXonve/ComprehensiveAccounting.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/CitruXonve/ComprehensiveAccounting/issues"
+  },
+  "homepage": "https://github.com/CitruXonve/ComprehensiveAccounting#readme",
+  "dependencies": {
+    "firebase-admin": "^10.0.1",
+    "yarn": "^1.22.17"
+  }
+}
